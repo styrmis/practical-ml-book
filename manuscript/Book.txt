@@ -1,2 +1,6 @@
-chapter1-the-basics.txt
-chapter2-writing-in-markua.txt
+01-introduction.md
+10-the-transformers-architecture.md
+20-using-transformers.md
+30-fine-tuning-transformer-models.md
+40-model-training.md
+50-background-material.md
